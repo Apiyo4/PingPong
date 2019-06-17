@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PingPongTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-06-13T12:06:53" hostname="moringa-Lenovo-ideapad-330-15IKB" time="0.044">
+  <properties/>
+  <testcase name="runPingPong_countUpToGivenNumber_ArrayList" classname="PingPongTest" time="0.042"/>
+  <testcase name="runPingPong_replaceMultiplesOf3_ArrayList" classname="PingPongTest" time="0.0"/>
+  <testcase name="runPingPong_CountUpTo1_ArrayList" classname="PingPongTest" time="0.0"/>
+  <testcase name="runPingPong_replaceMultiplesOf5_ArrayList" classname="PingPongTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
